@@ -6,6 +6,13 @@
   border-bottom: 1px solid #ccc;
 }
 
+.indicator{
+  padding: 10px;
+  text-align: left;
+  color: #585f66;
+  margin: 5px 0;
+  font-size: 30px;
+}
 .typing_area_viewer{
   margin-top: 10%;
   width: 80%;
@@ -26,10 +33,11 @@
   color: black;
 }
 .targetText{
+  padding-top: 20px;
   text-align: center;
   font-size: 18px;
   line-height: 1.5;
-  width: 120%;
+  width: 115%;
   height: 300px;
   background-color: rgb(243, 216, 241);
   border: 1px solid #ccc;

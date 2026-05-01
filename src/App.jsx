@@ -168,7 +168,7 @@ function handleLevelChange(e) {
         </div>
         <div className="Typing_area">
           <div className="typing_to_write">
-            <p>Type the following text:</p>
+            <p className='indicator'>Type the following text:</p>
               {/* <p>{hardLevelTexts[Math.floor(Math.random() * 3)]}</p> */}
                 {/* <p>{text}</p> */}
                 <div className='targetText'>          
